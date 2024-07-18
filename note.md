@@ -1,0 +1,2 @@
+- Color sidebar + hover + bôi đen: #343a40
+- Color main: #272829
